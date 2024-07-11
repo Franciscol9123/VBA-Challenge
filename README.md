@@ -9,7 +9,11 @@ I Created a script that loops through all the stocks for each quarter and output
 *The total stock volume of the stock. 
 *Add a functionality to the script in order to return the stock with the "Greatest % increase", "Greatest %          decrease", and "Greatest total volume".
 
-
+## Project report
+The report analyzsis details the following: 
+* Three major conclusion about the data
+* Limitation present within the sample
+* Other possible tables and/or graphs that we could create, along with what additional value would they provide
 
 
 
